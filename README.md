@@ -1,5 +1,5 @@
 # Smooth-Scroller Javascript Library
-A simple javascript library for scrolling smoothly to different sections of same page using html anchor tags.
+A simple javascript library for scrolling smoothly to different sections of same page using html anchor tags
 
 Features:-
 1. Extremely small size(3 kb)
